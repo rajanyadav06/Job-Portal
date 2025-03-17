@@ -1,4 +1,4 @@
-ONLINE JOB PORTAL USING REACT AND SANITY
+ONLINE JOB PORTAL USING REACT
 
 
 This website is all about searching the top jobs from top-reputed companies all over the world.
@@ -46,6 +46,6 @@ Tools and Technology Used:-
 
 1.HTML CSS AND JS
 2.React JS
-3.Sanity for Backend.
+3.Raushan for Backend.
 4.VS Code
 5.Vercel for deployment.
